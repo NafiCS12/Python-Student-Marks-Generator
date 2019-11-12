@@ -1,0 +1,5 @@
+tutorial_1_full_marks = 15
+tutorial_2_full_marks = 10
+tutorials_overall_weight = 7.5
+Attendance_overall_weight = 2.5
+total_class = 25
